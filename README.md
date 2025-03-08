@@ -33,5 +33,5 @@ This project focuses on developing a real-time object detection system for auton
 ### Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/real-time-object-detection.git
+   git clone https://github.com/Abdelaziz-NaSSeR/real-time-object-detection.git
    cd real-time-object-detection

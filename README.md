@@ -5,10 +5,10 @@
 
 ## Team Members
 - **Abdelaziz Nasser Abdelaziz Mohamed** (Team Leader)
-- **Mohamed Elshahat Mohamed**
+- **Mayar Alaa Aldin Mohran**
 - **Ghada Nasser Amin**
 - **Basma Ahmed Mahmoud**
-- **Mayar Alaa Aldin Mohran**
+- **Mohamed Elshahat Mohamed**
 
 ## Project Idea
 This project aims to develop a **real-time object detection system** for autonomous vehicles. The system will identify, classify, and track objects such as **pedestrians, vehicles, traffic signs, and obstacles** using deep learning techniques and computer vision.

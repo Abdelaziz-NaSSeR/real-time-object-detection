@@ -34,8 +34,8 @@ Autonomous vehicles require advanced perception systems to ensure safe navigatio
 ## Project Plan
 | Task | Assigned Member | Timeline |
 |------|---------------|----------|
-| Research and Dataset Collection | Abdelaziz | Week 1-2 |
-| Model Selection and Training | Mohamed | Week 3-4 |
+| Research and Dataset Collection | Mohamed | Week 1-2 |
+| Model Selection and Training | Abdelaziz | Week 3-4 |
 | Real-Time Integration & Optimization | Basma | Week 5-6 |
 | Testing and Validation | Ghada | Week 7 |
 | Documentation and Final Report | Mayar | Week 8 |
